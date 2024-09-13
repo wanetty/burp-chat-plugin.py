@@ -61,5 +61,7 @@ Contributions to improve BurpAI Chat are welcome. Please submit pull requests or
 This tool is for educational and professional use in authorized security testing only. The developers are not responsible for any misuse or damage caused by this tool.
 # Example
 
-![Exmaple Photo](./2023-04-11_09-14.png)
+![Send Requests to BurpAI Chat](./static/captura1.png)
 
+
+![Chat with AI](./static/captura2.png)
